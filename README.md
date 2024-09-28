@@ -30,4 +30,4 @@ Enlaces a los perfiles de GitHub de alumnos y profesores del Centro Público Int
 * [Ruiz Toledo, Jesús]()
 * [Sánchez Martínez, José]()
 
-:star: Si te ha gustado este repo, dale una estrellita :wink:
+:star: Si te gusta este repo, dale una estrellita :wink:
