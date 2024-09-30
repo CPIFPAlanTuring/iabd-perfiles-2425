@@ -27,7 +27,7 @@ Enlaces a los perfiles de GitHub de alumnos y profesores del Centro Público Int
 * [Perogil Fernández, Adrián]()
 * [Pilkington González, Natalie Elizabeth]()
 * [Ramírez Vaquero, Daniel]()
-* [Ruiz Toledo, Jesús]()
+* [Ruiz Toledo, Jesús](https://github.com/jesusruiztoledo)
 * [Sánchez Martínez, José]()
 
 :star: Si te gusta este repo, dale una estrellita :wink:
