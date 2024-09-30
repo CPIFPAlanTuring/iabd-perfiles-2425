@@ -24,7 +24,7 @@ Enlaces a los perfiles de GitHub de alumnos y profesores del Centro Público Int
 * [Moreno Cerezo, David](https://github.com/DavidMoCe)
 * [Nievas López, Darío]()
 * [Peralta Muñoz, Hugo]()
-* [Perogil Fernández, Adrián]()
+* [Perogil Fernández, Adrián](https://github.com/imchopi)
 * [Pilkington González, Natalie Elizabeth](https://github.com/napilkington)
 * [Ramírez Vaquero, Daniel]()
 * [Ruiz Toledo, Jesús](https://github.com/jesusruiztoledo)
