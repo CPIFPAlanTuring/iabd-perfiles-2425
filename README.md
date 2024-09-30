@@ -11,7 +11,7 @@ Enlaces a los perfiles de GitHub de alumnos y profesores del Centro Público Int
 
 * [Aceituno Valero, Jesús]()
 * [Andrades Bueno, Jairo](https://github.com/jairopo)
-* [Bermúdez Gallego, Oscar]()
+* [Bermúdez Gallego, Oscar](https://github.com/OscarBermudez38)
 * [Borja Bravo]()
 * [Burgos García, Denise]()
 * [Del Rosal Aguirre, Tristán Enrique]()
