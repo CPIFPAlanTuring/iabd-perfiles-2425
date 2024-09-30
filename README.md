@@ -21,7 +21,7 @@ Enlaces a los perfiles de GitHub de alumnos y profesores del Centro Público Int
 * [García Muñoz, Pablo]()
 * [López Muñoz, Carlos](https://github.com/carloslopez04)
 * [Mata Rodríguez, Yeray](https://github.com/YerayMR)
-* [Moreno Cerezo, David]()
+* [Moreno Cerezo, David](https://github.com/DavidMoCe)
 * [Nievas López, Darío]()
 * [Peralta Muñoz, Hugo]()
 * [Perogil Fernández, Adrián]()
