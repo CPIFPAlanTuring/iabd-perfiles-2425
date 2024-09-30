@@ -10,7 +10,7 @@ Enlaces a los perfiles de GitHub de alumnos y profesores del Centro Público Int
 ## Alumnos
 
 * [Aceituno Valero, Jesús]()
-* [Andrades Bueno, Jairo]()
+* [Andrades Bueno, Jairo](https://github.com/jairopo)
 * [Bermúdez Gallego, Oscar]()
 * [Borja Bravo]()
 * [Burgos García, Denise]()
