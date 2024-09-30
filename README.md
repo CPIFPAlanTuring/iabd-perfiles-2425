@@ -17,7 +17,7 @@ Enlaces a los perfiles de GitHub de alumnos y profesores del Centro Público Int
 * [Del Rosal Aguirre, Tristán Enrique]()
 * [García Antona, José Antonio]()
 * [García Estévez, Germán](https://github.com/germangarest)
-* [García Estévez, Marcos]()
+* [García Estévez, Marcos](https://github.com/warc0s)
 * [García Muñoz, Pablo]()
 * [López Muñoz, Carlos]()
 * [Mata Rodríguez, Yeray]()
