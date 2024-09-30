@@ -20,7 +20,7 @@ Enlaces a los perfiles de GitHub de alumnos y profesores del Centro Público Int
 * [García Estévez, Marcos](https://github.com/warc0s)
 * [García Muñoz, Pablo]()
 * [López Muñoz, Carlos](https://github.com/carloslopez04)
-* [Mata Rodríguez, Yeray]()
+* [Mata Rodríguez, Yeray](https://github.com/YerayMR)
 * [Moreno Cerezo, David]()
 * [Nievas López, Darío]()
 * [Peralta Muñoz, Hugo]()
