@@ -15,7 +15,7 @@ Enlaces a los perfiles de GitHub de alumnos y profesores del Centro Público Int
 * [Borja Bravo](https://github.com/boorjabraavo21)
 * [Burgos García, Denise]()
 * [Del Rosal Aguirre, Tristán Enrique]()
-* [García Antona, José Antonio]()
+* [García Antona, José Antonio](https://github.com/Antonioantona)
 * [García Estévez, Germán](https://github.com/germangarest)
 * [García Estévez, Marcos](https://github.com/warc0s)
 * [García Muñoz, Pablo]()
